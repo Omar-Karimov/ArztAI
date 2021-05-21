@@ -5,7 +5,7 @@ import streamlit as st
 import tensorflow as tf
 import cv2
 from PIL import Image, ImageOps
-from keras.applications.mobilenet_v2 import preprocess_input
+from tf.keras.applications.mobilenet_v2 import preprocess_input
 import joblib 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
