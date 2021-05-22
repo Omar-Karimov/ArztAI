@@ -1,5 +1,5 @@
 # ArztAI
-Innovative digital health platform
+### Innovative digital health platform
 
 * Username: Admin
 * Password: 537382
