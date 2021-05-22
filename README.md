@@ -12,4 +12,15 @@ Artificial intelligence and machine learning are successfully applied in medicin
 
 ### About Project
 
-In this project we will created app which can identify different types of diseases, such as brain tumor, COVID, pneumonia, and heart failure. In the implementation of this project used different methods of deep learning and machine learning. ArztAI deployed and hosted in Streamlit Sharing. 
+In this project we will created app which can identify different types of diseases, such as brain tumor, COVID, pneumonia, and heart failure. In the implementation of this project used different methods of deep learning and machine learning. ArztAI deployed and hosted in Streamlit Sharing.
+
+* Data Sets
+
+I have combined different dataset for the creating covid and pneumonia detection model.
+
+source: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+source: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+source: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+source: https://www.kaggle.com/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset
+source: https://www.kaggle.com/gibi13/pneumonia-covid19-image-dataset
+
