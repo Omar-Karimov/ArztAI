@@ -24,8 +24,8 @@ page_title= "ArztAI",  # String or None. Strings get appended with "• Streamli
 page_icon= "favicon.png", # String, anything supported by st.image, or None.
 )
 
-main_bg = "BACK2.png"
-main_bg_ext = "BACK2.png"
+main_bg = "Images/BACK2.png"
+main_bg_ext = "Images/BACK2.png"
 
 
 st.markdown(
