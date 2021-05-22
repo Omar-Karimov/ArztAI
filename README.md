@@ -14,7 +14,7 @@ Artificial intelligence and machine learning are successfully applied in medicin
 
 In this project we will created app which can identify different types of diseases, such as brain tumor, COVID, pneumonia, and heart failure. In the implementation of this project used different methods of deep learning and machine learning. ArztAI deployed and hosted in Streamlit Sharing.
 
-![](Images/2021-05-22 (2).png)
+![Uploading image1.png…]()
 
 * Data Sets
 
