@@ -1,7 +1,7 @@
 # ArztAI
 Innovative digital health platform
 
-* Username:Admin
+* Username: Admin
 * Password: 537382
 
 Deployed -- https://share.streamlit.io/omar-karimov/arztai/main/App.py
