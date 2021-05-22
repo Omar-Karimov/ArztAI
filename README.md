@@ -20,6 +20,8 @@ In this project we will created app which can identify different types of diseas
 
 ![image3](https://user-images.githubusercontent.com/68358028/119236880-a64d5200-baee-11eb-9274-ed195f181b9a.png)
 
+![image4](https://user-images.githubusercontent.com/68358028/119236926-f3c9bf00-baee-11eb-920c-59e241ebece0.png)
+
 
 * Data Sets
 
