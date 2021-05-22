@@ -16,6 +16,9 @@ In this project we will created app which can identify different types of diseas
 
 ![image1](https://user-images.githubusercontent.com/68358028/119236773-1ad3c100-baee-11eb-997b-16edf4702fc6.png)
 
+![image2](https://user-images.githubusercontent.com/68358028/119236842-68e8c480-baee-11eb-9381-d47e46b742a0.png)
+
+
 * Data Sets
 
 I have combined different dataset particularly for the creating covid and pneumonia detection model.
