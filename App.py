@@ -45,10 +45,10 @@ st.markdown(
 
 col1, col2, col3 = st.beta_columns([1,2,1])
 col1.write("")
-col2.image("logo.png", width = 350)
+col2.image("Images/logo.png", width = 350)
 col3.write("")
 
-st.sidebar.image("ARZT-AI.png", width = 300)
+st.sidebar.image("Images/ARZT-AI.png", width = 300)
 
 
 
@@ -67,8 +67,8 @@ of medical services in general, and reducing costs. Our platform shows excellent
   st.write("")
 
   col1, col2 = st.beta_columns(2)
-  col1.image("Covid_Normal_Pneumonia.png", width = 600)
-  col2.image("Tumor_Normal.png", width = 600)
+  col1.image("Images/Covid_Normal_Pneumonia.png", width = 600)
+  col2.image("Images/Tumor_Normal.png", width = 600)
   
   st.write("")
 
@@ -82,9 +82,9 @@ and highlights the smallest details that a person would not pay attention to.</p
   """, unsafe_allow_html=True)
 
   col1, col2, col3 = st.beta_columns(3)
-  col1.image("sistem.png", width = 400)
-  col2.image("sistem2.png", width = 400)
-  col3.image("sistem3.png", width = 400)
+  col1.image("Images/sistem.png", width = 400)
+  col2.image("Images/sistem2.png", width = 400)
+  col3.image("Images/sistem3.png", width = 400)
 
   st.write("")
 
@@ -99,7 +99,7 @@ and highlights the smallest details that a person would not pay attention to.</p
   </p>
   """, unsafe_allow_html=True)
 
-  st.image("contact.png", width = 250)
+  st.image("Images/contact.png", width = 250)
 
 
 elif choice == "Login":
