@@ -17,11 +17,11 @@ import base64
 
 
 
-st.set_page_config(  # Alternate names: setup_page, page, layout
-layout="wide",  # Can be "centered" or "wide". In the future also "dashboard", etc.
-initial_sidebar_state="auto",  # Can be "auto", "expanded", "collapsed"
-page_title= "ArztAI",  # String or None. Strings get appended with "• Streamlit". 
-page_icon= "favicon.png", # String, anything supported by st.image, or None.
+st.set_page_config(  
+layout="wide",  
+initial_sidebar_state="auto",  
+page_title= "ArztAI",  
+page_icon= "favicon.png",
 )
 
 main_bg = "Images/BACK2.png"
