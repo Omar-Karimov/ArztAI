@@ -147,7 +147,7 @@ elif choice == "Login":
         st.subheader("Brain MRI image")
         @st.cache(allow_output_mutation = True)
         def load_model():
-          model = tf.keras.models.load_model("model_brain_tumor.h5")
+          model = tf.keras.models.load_model("Models/model_brain_tumor.h5")
           return model
           
         model = load_model()
