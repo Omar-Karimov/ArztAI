@@ -136,7 +136,7 @@ elif choice == "Login":
           image = Image.open(file)
           st.image(image,  use_column_width = True)
           prediction = import_and_predict(image, model)
-          class_names = ["COVID19", "Normal", "Pneumonia"]
+          class_names = ["Pneumonia", "COVID19", "Normal"]
           string = "Result is: " + class_names[np.argmax(prediction)]
           if class_names[np.argmax(prediction)] == "Normal":
             st.success("Result is: " + class_names[np.argmax(prediction)])
