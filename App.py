@@ -115,7 +115,7 @@ elif choice == "Login":
         st.subheader("Chest X-ray")
         @st.cache(allow_output_mutation = True)
         def load_model():
-          model = tf.keras.models.load_model("COVID_Pneumonia.h5")
+          model = tf.keras.models.load_model("Models/COVID_Pneumonia.h5")
           return model
           
         model = load_model()
