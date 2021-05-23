@@ -61,7 +61,7 @@ if choice == "Home":
   st.write("")
 
   st.write("""  <p style=" font-size: 15px; font-weight:normal; font-family:verdana"> ArztAI is engaged in the implementation of artificial intelligence technologies in medicine and provide AI-based health solutions. We're transforming the diagnostic system, improving the quality
-of medical services in general, and reducing costs. Our platform shows excellent results - the accuracy of detecting pathologies by ultrasound and MRI exceeds 92%.</p>
+of medical services in general, and reducing costs. Our platform shows excellent results - the accuracy of detecting pathologies by ultrasound and MRI exceeds 90%.</p>
   """, unsafe_allow_html=True)
 
   st.write("")
