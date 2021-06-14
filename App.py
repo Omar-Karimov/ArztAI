@@ -231,7 +231,7 @@ elif choice == "Login":
         st.write(df)
 
         # Reads in saved classification model
-        rf = joblib.load("Heart_Faliure_model")
+        rf = joblib.load("Models/Heart_Faliure_model")
         # Apply model to make predictions
         prediction = rf.predict(df)
         prediction_proba = rf.predict_proba(df)
